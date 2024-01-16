@@ -2,16 +2,18 @@
 
 # Internships and Jobs
 
-| Website/Portal                                      | Description                                                  | Tags/Keywords                           |
-| ---------------------------------------------------- | ------------------------------------------------------------ | ---------------------------------------- |
-| [hrcnet.nic.in](http://hrcnet.nic.in)                | Human Resource Development Centre (HRDC) job portal            | Internships, Jobs                       |
-| [internship.aicte-india.org](http://internship.aicte-india.org) | AICTE Internship Portal                                      | Internships                             |
-| [swayam.mygov.in](https://swayam.mygov.in)            | SWAYAM - Free Online Education Platform by the Government of India | Online Education, Courses               |
-| [ugc.ac.in](https://www.ugc.ac.in)                    | University Grants Commission (UGC) job portal                  | Jobs, Scholarships                      |
-| [Directorate General of Foreign Trade](http://dgft.gov.in) | Government job portal for foreign trade and commerce          | Jobs                                   |
-| [Ministry of Education](https://education.gov.in)     | Ministry of Education, Government of India job portal          | Jobs                                   |
-| [NCDC](http://ncdc.in)                                 | National Cooperative Development Corporation job portal        | Jobs                                   |
-| [NHRC](https://nhrc.nic.in)                           | National Human Rights Commission job portal                    | Jobs                                   |
+| Website/Portal | Description | Tags/Keywords |
+| ---- | ---- | ---- |
+| [hrcnet.nic.in](http://hrcnet.nic.in) | Human Resource Development Centre (HRDC) job portal | Internships, Jobs |
+| [internship.aicte-india.org](http://internship.aicte-india.org) | AICTE Internship Portal | Internships |
+| [swayam.mygov.in](https://swayam.mygov.in) | SWAYAM - Free Online Education Platform by the Government of India | Online Education, Courses |
+| [ugc.ac.in](https://www.ugc.ac.in) | University Grants Commission (UGC) job portal | Jobs, Scholarships |
+| [Directorate General of Foreign Trade](http://dgft.gov.in) | Government job portal for foreign trade and commerce | Jobs |
+| [Ministry of Education](https://education.gov.in) | Ministry of Education, Government of India job portal | Jobs |
+| [NCDC](http://ncdc.in) | National Cooperative Development Corporation job portal | Jobs |
+| [NHRC](https://nhrc.nic.in) | National Human Rights Commission job portal | Jobs |
+| https://www.myscheme.gov.in/schemes/am-gris |  |  |
+| https://www.youtube.com/watch?v=9Jv0JfzZ0c0 |  |  |
 
 # Side Hustles
 

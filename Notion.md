@@ -1,0 +1,6 @@
+
+
+## Templates
+
+https://notiongetsdark.gumroad.com/?fbclid=PAAaZCuMDL43nl4-ukQzvqnR1tDqDV_lE72snnKecqGpJkDn7JXKri5kvoxN0_aem_th_AcbkyXECn8nlOs4XEUD7_Q7a4PftRIOvZodT7FptfeY7fYu2Em65IxeTIIy35_I-JN4a3p0xuPSenZiKMmVmAzor
+

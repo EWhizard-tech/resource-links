@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "fc762505e43155f4",
+        "id": "6e32d2c7ae43d023",
         "type": "tabs",
         "children": [
           {
-            "id": "1eac331e13900788",
+            "id": "73c76920720c5e5b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI - Coding.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI - Coding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,8 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI - Coding.md",
-                "linksCollapsed": false,
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -124,17 +118,23 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "AI - Coding.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "31f33c4afe561cb0",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,8 +147,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b8c9eb37a2b29d96",
+  "active": "73c76920720c5e5b",
   "lastOpenFiles": [
+    "Oracle.md",
+    "AI - Audio & Voice.md",
+    "The Ultimate.md",
+    "Summer Schools.md",
+    "GNOME.md",
+    "GitHub Pages.md",
+    "Internship.md",
+    "Fonts.md",
+    "Workshops.md",
+    "Internships.md",
+    "Hackathons.md",
+    "DBMS.md",
+    "Code Guides.md",
+    "Telegram Channels.md",
+    "Windows Tips.md",
+    "AI - Coding.md",
+    "Developer IDs.md",
+    "Notion.md",
+    "FreeCodeCamp.md",
     "LICENSE",
     "README.md",
     "Cheetsheets.md",
@@ -157,24 +176,6 @@
     "Design Resources.md",
     "Digital Learning.md",
     "Educational Sites.md",
-    "Discord Servers.md",
-    "Entertainment.md",
-    "Games.md",
-    "GitHub Pages.md",
-    "Graphics Design.md",
-    "HTML CSS Resources.md",
-    "Instagram Pages.md",
-    "Internship.md",
-    "Internships.md",
-    "Interview.md",
-    "Learn Obsidian.md",
-    "Learning.md",
-    "Life facts.md",
-    "LinkedIn Hacks.md",
-    "YouTube Channels.md",
-    "link.md",
-    "Marketing.md",
-    "Photography & Editing.md",
     "Programming Notes/ExcelVBANotesForProfessionals.pdf",
     "Programming Notes/CSSNotesForProfessionals.pdf",
     "Programming Notes/CSharpNotesForProfessionals.pdf",
@@ -183,7 +184,6 @@
     "Programming Notes/AndroidNotesForProfessionals.pdf",
     "Programming Notes/BashNotesForProfessionals.pdf",
     "Programming Notes/Angular2NotesForProfessionals.pdf",
-    "Programming Notes/DotNETFrameworkNotesForProfessionals.pdf",
-    "Programming Notes/AlgorithmsNotesForProfessionals.pdf"
+    "Programming Notes/DotNETFrameworkNotesForProfessionals.pdf"
   ]
 }
