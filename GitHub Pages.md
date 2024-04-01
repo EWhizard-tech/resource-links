@@ -41,3 +41,4 @@
 | awesome-design-patterns             | [awesome-design-patterns GitHub](https://github.com/DovAmir/awesome-design-patterns) | Catalog of software design patterns and their applications.                                      | #DesignPatterns, #SoftwareArchitecture, #Catalog     |
 | beautiful-docs                     | [beautiful-docs GitHub](https://github.com/matheusfelipeog/beautiful-docs) | Resources and best practices for creating beautiful and effective documentation.                 | #Documentation, #BestPractices, #BeautifulDocs       |
 | awesome-scalability                | [awesome-scalability GitHub](https://github.com/binhnguyennus/awesome-scalability) | Patterns of scalable, reliable, and performant large-scale systems.                               | #Scalability, #Reliability, #LargeScaleSystems       |
+https://github.com/Sadaf-A

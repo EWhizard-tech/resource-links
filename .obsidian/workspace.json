@@ -11,11 +11,40 @@
             "id": "73c76920720c5e5b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Internship.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c0662d1e6dccc3c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GitHub Pages.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ac408e878e167fe6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Portfolio.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GitHub Pages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "GitHub Pages.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "GitHub Pages.md"
+              }
             }
           },
           {
@@ -147,19 +180,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "73c76920720c5e5b",
+  "active": "c0662d1e6dccc3c2",
   "lastOpenFiles": [
+    "Website-Money Hacks.md",
+    "Internship.md",
+    "Scholarships.md",
+    "Tools.md",
+    "Web Dev Tools.md",
+    "GitHub Pages.md",
+    "Design Resources.md",
+    "Programming Notes/express.js.pdf",
+    "ux foundation .pdf",
+    "Hackathons.md",
+    "Portfolio.md",
+    "Resume.md",
     "Oracle.md",
     "AI - Audio & Voice.md",
     "The Ultimate.md",
     "Summer Schools.md",
     "GNOME.md",
-    "GitHub Pages.md",
-    "Internship.md",
     "Fonts.md",
     "Workshops.md",
     "Internships.md",
-    "Hackathons.md",
     "DBMS.md",
     "Code Guides.md",
     "Telegram Channels.md",
@@ -169,21 +211,12 @@
     "Notion.md",
     "FreeCodeCamp.md",
     "LICENSE",
-    "README.md",
-    "Cheetsheets.md",
-    "College Academics Hacks.md",
-    "Coupons.md",
-    "Design Resources.md",
-    "Digital Learning.md",
-    "Educational Sites.md",
     "Programming Notes/ExcelVBANotesForProfessionals.pdf",
     "Programming Notes/CSSNotesForProfessionals.pdf",
     "Programming Notes/CSharpNotesForProfessionals.pdf",
     "Programming Notes/CPlusPlusNotesForProfessionals.pdf",
     "Programming Notes/CNotesForProfessionals.pdf",
     "Programming Notes/AndroidNotesForProfessionals.pdf",
-    "Programming Notes/BashNotesForProfessionals.pdf",
-    "Programming Notes/Angular2NotesForProfessionals.pdf",
-    "Programming Notes/DotNETFrameworkNotesForProfessionals.pdf"
+    "Programming Notes/BashNotesForProfessionals.pdf"
   ]
 }
